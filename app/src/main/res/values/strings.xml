@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cloud FireStore</string>
+    <string name="data_will_send_on_next_app_using_cloud_firestore">Data will send on next app using Cloud Firestore</string>
+    <string name="for_view_result_go_to_next_app">for view result go to next app</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
